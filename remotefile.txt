@@ -1,2 +1,2 @@
-f
 updating remote locally
+Merged file
